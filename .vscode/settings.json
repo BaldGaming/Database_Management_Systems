@@ -3,8 +3,8 @@
         {
             "previewLimit": 50,
             "driver": "SQLite",
-            "name": "MyLocalDB",
-            "database": "practice.db"
+            "name": "DevDataBase",
+            "database": "test.db"
         }
     ],
     "sqltools.useNodeRuntime": true
